@@ -1,0 +1,3 @@
+for (var contador = 7; contador < 10; contador ++) {
+    console.log("7" * contador)
+}
