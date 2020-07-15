@@ -1,0 +1,7 @@
+function estavaPresenteNaAula(nomeDoAluno, nomesDosPresentes){
+    if(nomesDosPresentes.indexOf("Vivian")){
+        return true
+    }else{
+        return false
+    }
+}
